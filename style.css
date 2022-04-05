@@ -18,16 +18,20 @@
 
 .name {
     float: left;
+    color: rgb(3, 3, 113);
 }
 
 .address {
     float: right;
+    color: rgb(3, 3, 113);
 }
 
 .number {
     float: right;
+    color: rgb(3, 3, 113);
 }
 
 .email {
     float: right;
+    color: rgb(3, 3, 113);
 }
